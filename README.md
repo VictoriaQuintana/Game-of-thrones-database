@@ -16,6 +16,9 @@ Projeto do Módulo 4 do curso da Resilia/Senac que consistia na criação de um 
  
  # Documentação
  
+ Diagrama
  ![print-mod-4](https://user-images.githubusercontent.com/114583009/215481937-4fcbe532-106f-4829-99f8-dd38be2e3d07.png)
+ 
+ # apresentação
 
  [Acesse a nossa apresentação](https://github.com/VictoriaQuintana/Game-of-thrones-database/files/10536017/Apresentacao.Game.of.thrones.pdf)
