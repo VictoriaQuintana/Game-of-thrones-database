@@ -4,7 +4,7 @@
 
 # Módulo 4_ Game of Thrones
 
-#Projeto
+# Projeto
 
 Projeto do Módulo 4 do curso da Resilia/Senac que consistia na criação de um dashboard no MetaBase baseado em querys do conjunto de dados da série Game pf thrones.
 
@@ -14,6 +14,6 @@ Projeto do Módulo 4 do curso da Resilia/Senac que consistia na criação de um 
  - Quais foram os episódios mais comentados pelo público nas primeiras semanas da estreia? E críticos?
  - Casas nobres com mais destaque:
  
- #Documentação
+ # Documentação
  
  ![print-mod-4](https://user-images.githubusercontent.com/114583009/215481937-4fcbe532-106f-4829-99f8-dd38be2e3d07.png)
