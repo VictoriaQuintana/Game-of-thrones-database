@@ -6,7 +6,7 @@
 
 # Projeto
 
-Projeto do Módulo 4 do curso da Resilia/Senac que consistia na criação de um dashboard no MetaBase baseado em querys do conjunto de dados da série Game pf thrones.
+Projeto do Módulo 4 do curso da Resilia/Senac que consistia na criação de um dashboard no MetaBase baseado em querys do conjunto de dados da série Game of thrones.
 
 # Consultas
 
