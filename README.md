@@ -12,6 +12,7 @@ Projeto do Módulo 4 do curso da Resilia/Senac que consistia na criação de um 
 
  - Quais personagens mais apareceram na série:
  - Quais foram os episódios mais comentados pelo público nas primeiras semanas da estreia? E críticos?
+ - Atores com mais destaque na internet (índice de pesquisa)
  - Casas nobres com mais destaque:
  
  # Documentação
